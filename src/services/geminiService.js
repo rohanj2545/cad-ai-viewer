@@ -1,4 +1,4 @@
-import { GoogleGenAI, Type } from "@google/genai";
+import { GoogleGenAI, Type } from "@google/generative-ai";
 
 const getAIClient = () => {
   // Configured in vite.config.js to be replaced during build
